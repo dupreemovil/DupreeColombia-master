@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Aug 23 12:08:05 COT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\sergio.caro\\StudioProjects\\DupreeColombia-master\\app\\build\\intermediates\\assets\\debug
+0.path=com.dupreinca.dupree.mblic
+0.set=ASSET
+count=1

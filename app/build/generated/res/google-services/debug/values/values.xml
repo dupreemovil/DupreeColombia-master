@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">625076487360-sejj8g1gfpb726bhssida0co5bpd3bdh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://dupreeapp-e6ab6.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">625076487360</string>
+    <string name="google_api_key" translatable="false">AIzaSyBff4pSlHTMeXhmkkhQz7CBDpmp-Y3W9eY</string>
+    <string name="google_app_id" translatable="false">1:625076487360:android:213f3d82d4afee5a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBff4pSlHTMeXhmkkhQz7CBDpmp-Y3W9eY</string>
+    <string name="google_storage_bucket" translatable="false">dupreeapp-e6ab6.appspot.com</string>
+    <string name="project_id" translatable="false">dupreeapp-e6ab6</string>
+</resources>

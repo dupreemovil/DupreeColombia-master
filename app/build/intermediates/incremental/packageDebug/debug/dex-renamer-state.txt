@@ -1,0 +1,10 @@
+#Thu Aug 23 12:54:43 COT 2018
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\sergio.caro\\StudioProjects\\DupreeColombia-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+base.1=C\:\\Users\\sergio.caro\\StudioProjects\\DupreeColombia-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+base.0=C\:\\Users\\sergio.caro\\StudioProjects\\DupreeColombia-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17

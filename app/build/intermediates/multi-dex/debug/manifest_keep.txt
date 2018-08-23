@@ -1,0 +1,3 @@
+# Referenced at C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:44
+-keep class com.dupreinca.dupree.mh_based_realm.BaseApplication { <init>(...); }
+

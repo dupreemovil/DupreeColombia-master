@@ -1,0 +1,966 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:60:9-69:20
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:22:9-30:20
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:22:9-30:20
+	android:grantUriPermissions
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:64:13-47
+	android:authorities
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:62:13-83
+		REJECTED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:24:13-66
+	android:exported
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:63:13-37
+	tools:replace
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:65:13-48
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:61:13-67
+manifest
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:2:1-126:12
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:2:1-126:12
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:2:1-126:12
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:2:1-126:12
+MERGED from [io.realm:realm-android-library:2.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\realm-android-library-2.2.1.aar\6001ce9f3a40026a8431e642f6ecad93\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\407536b6d124f45ca30c34acf8aa686a\AndroidManifest.xml:17:1-22:12
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\474b100be281600fa9a057e6526550db\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.dimorinny:floating-text-button:0.0.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\floating-text-button-0.0.2.aar\bc200d50d84b6e06bd1592b57a67d479\AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\25205d7d89004b98e04a96b33f68849b\AndroidManifest.xml:2:1-13:12
+MERGED from [com.uphyca:stetho_realm:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\stetho_realm-2.1.0.aar\5695457790e6ce05ff3c843862d1979b\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:2:1-33:12
+MERGED from [io.realm:android-adapters:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\android-adapters-2.1.0.aar\670395e540bc5c3626b7d3b1db7c2dcb\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\68df8009efcc43c2d67c071fae559bb9\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-10.2.1.aar\85d3746ee3204f440f0382deb9ec53c6\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.1.aar\04ef26934a7b0fdad2625d7f166984d1\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.1.aar\aaf816be7d32a6684311714515c40671\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.1.aar\e722461731d87148f1ab154450f82976\AndroidManifest.xml:16:1-21:12
+MERGED from [pub.devrel:easypermissions:0.3.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ddf5f4156de80ff257dacf64920b0368\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\58e8a467dc7ef630c7d4d1aa33315d35\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.1.aar\63b5b983138185caf4b7f85bcba38b8c\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\0583c1a266169b5f7bdc7553cad0025d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7d6dacf66c379b85cda5ac4776585bf6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d531f8b921fced9e5e23b76be4723944\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ecb462f4dbedc5f46efbc17a24c341ba\AndroidManifest.xml:17:1-28:12
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\9b29a6b109bcfae08bc88da36f38ab19\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.1.aar\c1c489ff3e33278193e20d130555ff98\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-10.2.1.aar\b4d056da2821f04007563a350ae4b373\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.1.aar\5e046ae63585670d1a6eb2ef715b22bc\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.1.aar\9889e82f169e3ce6241034f932d74315\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.1.aar\ec2b8c3f186ee108e434afca90ab3925\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.1.aar\163ca525a750b8d8843e55bd4ca6ddac\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.1.aar\40cb47f90bc0aba8cfdb94b08356de51\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.1.aar\2952c6c9c78185428e1256632b274291\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-10.2.1.aar\67dd35ef395f5ddc8c5d2d167e749d22\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.1.aar\7b0a969249815cea4e7a8849862d38db\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.1.aar\e4a137e57766865be8388a9befcb1861\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.1.aar\e9cad1d8c85f47787b3cac514cf71f47\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.1.aar\0be5cabcc2868858dd4c62072ab3b0d0\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.1.aar\300d044386f2423109a2a5b8c4eee459\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.1.aar\3e0cfa464a537e4ab4ae762723ce2f50\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-wallet-10.2.1.aar\a4f39c178f8c78b78685907c3afd299e\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.1.aar\e9d1c1680a37286c4e482783bbbeff56\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.1.aar\9d713dca684b471934903abad5759c10\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-10.2.1.aar\ef85257cc1cb4278018d8a97bc8e41d1\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.1.aar\cd9032e532340dc07bd61993838942bb\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.1.aar\2d2d53f618dc3ca605c0c885d9765e65\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.1.aar\72c25f9675c8681fc47feabc3b978776\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.1.aar\2cd56ff2f5a486c31b56eb006a2f01f0\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\0723f97d62040b39963cced288bb71a1\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.1.aar\76142f2dca7684ac9431247ab01674e0\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.1.aar\6dc2bbf6c5a48ee51d4ac6adc7b0d143\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.1.aar\f5e25db2c3e919e58d9a9b122503624f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\a009f45d9c54c5bd466def68d0e58a8f\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\84a98da7c9ca47730384081a171e2ef9\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.1.aar\72a7ec8a9e4c8d9ca8bcdcd03845c72c\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.1.aar\6363122d7a443dc1568767ccf9f0e1c8\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\7de552fdd84254a2f1de05c2758c7eb0\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\15829086ca3fd92b452cf45e2eba58fc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\1cca5783dcacda7961876d0cc2164159\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bdca58de75d8703cf934245f8282226b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\aa03692c70308c0ec9e413c29a7b0f3a\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\93e9dafbd9c97636de69935e7e8e45f2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.jakob-grabner:Circle-Progress-View:v1.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\Circle-Progress-View-v1.3.aar\6466e721b06e245ec9f825768a69e0f7\AndroidManifest.xml:2:1-14:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\540a0725fae8e2d4f96ff6156cca1a2c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7e0e2756ec0c95e91d097a488804c601\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3fedbbe4f576dcc15e99e1697793f48d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\04fdb6d61296f45bd8d1bb4358c72163\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e5f83527dd8fdb878b7e7de9b74ee98a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\693368ae1141db7db5eab35fbda8ff2c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb67f53baecec6798f83bc2c980638c2\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\546b2e862c2cab0065b3dc031feb79e6\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:2:1-126:12
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:2:1-126:12
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:2:1-126:12
+	package
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:2:1-126:12
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:2:1-126:12
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\9b29a6b109bcfae08bc88da36f38ab19\AndroidManifest.xml:11:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\9b29a6b109bcfae08bc88da36f38ab19\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.1.aar\c1c489ff3e33278193e20d130555ff98\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.1.aar\c1c489ff3e33278193e20d130555ff98\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.1.aar\3e0cfa464a537e4ab4ae762723ce2f50\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.1.aar\3e0cfa464a537e4ab4ae762723ce2f50\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.1.aar\9d713dca684b471934903abad5759c10\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.1.aar\9d713dca684b471934903abad5759c10\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:8:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:9:5-68
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:11:5-81
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:16:5-81
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:16:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\9b29a6b109bcfae08bc88da36f38ab19\AndroidManifest.xml:12:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\9b29a6b109bcfae08bc88da36f38ab19\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:13:5-65
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:11:5-65
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:14:22-66
+uses-permission#android.permission.FLAG_GRANT_WRITE_URI_PERMISSION
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:15:5-90
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:15:22-87
+uses-permission#android.permission.FLAG_GRANT_READ_URI_PERMISSION
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:16:5-89
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:16:22-86
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:17:5-98
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:17:22-95
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:19:22-78
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:21:5-70
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:14:5-70
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:21:19-67
+uses-feature#android.hardware.camera
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:22:5-24:35
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:13:5-60
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:13:5-60
+	android:required
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:24:9-32
+		MERGED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:24:9-32
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:23:9-47
+application
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:26:5-124:19
+MERGED from [com.github.dimorinny:floating-text-button:0.0.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\floating-text-button-0.0.2.aar\bc200d50d84b6e06bd1592b57a67d479\AndroidManifest.xml:11:5-14:38
+MERGED from [com.github.dimorinny:floating-text-button:0.0.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\floating-text-button-0.0.2.aar\bc200d50d84b6e06bd1592b57a67d479\AndroidManifest.xml:11:5-14:38
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\25205d7d89004b98e04a96b33f68849b\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\25205d7d89004b98e04a96b33f68849b\AndroidManifest.xml:11:5-20
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:18:5-31:19
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:18:5-31:19
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\68df8009efcc43c2d67c071fae559bb9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\68df8009efcc43c2d67c071fae559bb9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-10.2.1.aar\85d3746ee3204f440f0382deb9ec53c6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-10.2.1.aar\85d3746ee3204f440f0382deb9ec53c6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.1.aar\aaf816be7d32a6684311714515c40671\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.1.aar\aaf816be7d32a6684311714515c40671\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.1.aar\e722461731d87148f1ab154450f82976\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.1.aar\e722461731d87148f1ab154450f82976\AndroidManifest.xml:19:5-20:19
+MERGED from [pub.devrel:easypermissions:0.3.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:0.3.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ddf5f4156de80ff257dacf64920b0368\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ddf5f4156de80ff257dacf64920b0368\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\58e8a467dc7ef630c7d4d1aa33315d35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\58e8a467dc7ef630c7d4d1aa33315d35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.1.aar\63b5b983138185caf4b7f85bcba38b8c\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.1.aar\63b5b983138185caf4b7f85bcba38b8c\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\0583c1a266169b5f7bdc7553cad0025d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\0583c1a266169b5f7bdc7553cad0025d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7d6dacf66c379b85cda5ac4776585bf6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7d6dacf66c379b85cda5ac4776585bf6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d531f8b921fced9e5e23b76be4723944\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d531f8b921fced9e5e23b76be4723944\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ecb462f4dbedc5f46efbc17a24c341ba\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ecb462f4dbedc5f46efbc17a24c341ba\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.1.aar\c1c489ff3e33278193e20d130555ff98\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.1.aar\c1c489ff3e33278193e20d130555ff98\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.1.aar\9889e82f169e3ce6241034f932d74315\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.1.aar\9889e82f169e3ce6241034f932d74315\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.1.aar\163ca525a750b8d8843e55bd4ca6ddac\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.1.aar\163ca525a750b8d8843e55bd4ca6ddac\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.1.aar\2952c6c9c78185428e1256632b274291\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.1.aar\2952c6c9c78185428e1256632b274291\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.1.aar\7b0a969249815cea4e7a8849862d38db\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.1.aar\7b0a969249815cea4e7a8849862d38db\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.1.aar\e4a137e57766865be8388a9befcb1861\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.1.aar\e4a137e57766865be8388a9befcb1861\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.1.aar\e9cad1d8c85f47787b3cac514cf71f47\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.1.aar\e9cad1d8c85f47787b3cac514cf71f47\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.1.aar\0be5cabcc2868858dd4c62072ab3b0d0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.1.aar\0be5cabcc2868858dd4c62072ab3b0d0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.1.aar\300d044386f2423109a2a5b8c4eee459\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.1.aar\300d044386f2423109a2a5b8c4eee459\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.1.aar\3e0cfa464a537e4ab4ae762723ce2f50\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.1.aar\3e0cfa464a537e4ab4ae762723ce2f50\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.1.aar\e9d1c1680a37286c4e482783bbbeff56\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.1.aar\e9d1c1680a37286c4e482783bbbeff56\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.1.aar\9d713dca684b471934903abad5759c10\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.1.aar\9d713dca684b471934903abad5759c10\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.1.aar\cd9032e532340dc07bd61993838942bb\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.1.aar\cd9032e532340dc07bd61993838942bb\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.1.aar\2d2d53f618dc3ca605c0c885d9765e65\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.1.aar\2d2d53f618dc3ca605c0c885d9765e65\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.1.aar\72c25f9675c8681fc47feabc3b978776\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.1.aar\72c25f9675c8681fc47feabc3b978776\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.1.aar\2cd56ff2f5a486c31b56eb006a2f01f0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.1.aar\2cd56ff2f5a486c31b56eb006a2f01f0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\0723f97d62040b39963cced288bb71a1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\0723f97d62040b39963cced288bb71a1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.1.aar\76142f2dca7684ac9431247ab01674e0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.1.aar\76142f2dca7684ac9431247ab01674e0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.1.aar\6dc2bbf6c5a48ee51d4ac6adc7b0d143\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.1.aar\6dc2bbf6c5a48ee51d4ac6adc7b0d143\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.1.aar\f5e25db2c3e919e58d9a9b122503624f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.1.aar\f5e25db2c3e919e58d9a9b122503624f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\a009f45d9c54c5bd466def68d0e58a8f\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\a009f45d9c54c5bd466def68d0e58a8f\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\84a98da7c9ca47730384081a171e2ef9\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\84a98da7c9ca47730384081a171e2ef9\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.1.aar\6363122d7a443dc1568767ccf9f0e1c8\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.1.aar\6363122d7a443dc1568767ccf9f0e1c8\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\7de552fdd84254a2f1de05c2758c7eb0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\7de552fdd84254a2f1de05c2758c7eb0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\15829086ca3fd92b452cf45e2eba58fc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\15829086ca3fd92b452cf45e2eba58fc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\1cca5783dcacda7961876d0cc2164159\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\1cca5783dcacda7961876d0cc2164159\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bdca58de75d8703cf934245f8282226b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bdca58de75d8703cf934245f8282226b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\aa03692c70308c0ec9e413c29a7b0f3a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\aa03692c70308c0ec9e413c29a7b0f3a\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\93e9dafbd9c97636de69935e7e8e45f2\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\93e9dafbd9c97636de69935e7e8e45f2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.jakob-grabner:Circle-Progress-View:v1.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\Circle-Progress-View-v1.3.aar\6466e721b06e245ec9f825768a69e0f7\AndroidManifest.xml:12:5-20
+MERGED from [com.github.jakob-grabner:Circle-Progress-View:v1.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\Circle-Progress-View-v1.3.aar\6466e721b06e245ec9f825768a69e0f7\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7e0e2756ec0c95e91d097a488804c601\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7e0e2756ec0c95e91d097a488804c601\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3fedbbe4f576dcc15e99e1697793f48d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3fedbbe4f576dcc15e99e1697793f48d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\04fdb6d61296f45bd8d1bb4358c72163\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\04fdb6d61296f45bd8d1bb4358c72163\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e5f83527dd8fdb878b7e7de9b74ee98a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e5f83527dd8fdb878b7e7de9b74ee98a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\693368ae1141db7db5eab35fbda8ff2c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\693368ae1141db7db5eab35fbda8ff2c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb67f53baecec6798f83bc2c980638c2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb67f53baecec6798f83bc2c980638c2\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\546b2e862c2cab0065b3dc031feb79e6\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\546b2e862c2cab0065b3dc031feb79e6\AndroidManifest.xml:24:5-28:19
+	android:screenOrientation
+		ADDED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:21:9-45
+	android:supportsRtl
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:30:9-41
+	android:roundIcon
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:31:9-48
+	android:configChanges
+		ADDED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:19:9-44
+	android:icon
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:33:9-40
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:27:9-55
+service#com.dupreinca.dupree.mh_firebase.MyFirebaseMessagingService
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:37:9-41:19
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:37:18-72
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:38:13-40:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:39:25-75
+service#com.dupreinca.dupree.mh_firebase.MyFirebaseInstanceIDService
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:42:9-46:19
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:42:18-73
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:43:13-45:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:44:17-80
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:44:25-77
+activity#com.dupreinca.dupree.MainActivity
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:71:9-76:47
+	android:screenOrientation
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:74:13-45
+	android:configChanges
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:73:13-48
+	android:theme
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:76:13-44
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:72:13-41
+activity#com.dupreinca.dupree.MenuActivity
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:77:9-82:47
+	android:screenOrientation
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:81:13-49
+	android:label
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:80:13-56
+	android:configChanges
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:79:13-48
+	android:theme
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:78:13-41
+activity#com.dupreinca.dupree.ImageZoomActivity
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:83:9-55
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:83:19-52
+activity#com.dupreinca.dupree.mh_utilities.ImageZoomActivity_Scroll
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:84:9-87:47
+	android:label
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:86:13-35
+	android:theme
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:87:13-44
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:85:13-66
+activity#com.dupreinca.dupree.CatalogoViewerActivity
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:88:9-91:52
+	android:screenOrientation
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:91:13-49
+	android:configChanges
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:90:13-48
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:89:13-51
+activity#com.dupreinca.dupree.mh_bar_scann.BarcodeCaptureActivity
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:92:9-95:52
+	android:screenOrientation
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:95:13-49
+	android:configChanges
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:94:13-48
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:93:13-64
+activity#com.dupreinca.dupree.FullscreenActivity
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:96:9-106:20
+	android:label
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:99:13-45
+	android:configChanges
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:98:13-74
+	android:theme
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:100:13-51
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:97:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:101:13-105:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:102:17-69
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:102:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:104:17-77
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:104:27-74
+activity#com.dupreinca.dupree.PDFActivity
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:107:9-49
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:107:19-46
+service#com.dupreinca.dupree.ActualizarService
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:109:9-111:40
+	android:exported
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:111:13-37
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:110:13-46
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:113:9-115:54
+	android:resource
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:115:13-51
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:114:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:120:9-122:54
+	android:resource
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:122:13-51
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:121:13-84
+uses-sdk
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:2.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\realm-android-library-2.2.1.aar\6001ce9f3a40026a8431e642f6ecad93\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:2.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\realm-android-library-2.2.1.aar\6001ce9f3a40026a8431e642f6ecad93\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\407536b6d124f45ca30c34acf8aa686a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\407536b6d124f45ca30c34acf8aa686a\AndroidManifest.xml:20:5-43
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\474b100be281600fa9a057e6526550db\AndroidManifest.xml:7:5-9:41
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\474b100be281600fa9a057e6526550db\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dimorinny:floating-text-button:0.0.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\floating-text-button-0.0.2.aar\bc200d50d84b6e06bd1592b57a67d479\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dimorinny:floating-text-button:0.0.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\floating-text-button-0.0.2.aar\bc200d50d84b6e06bd1592b57a67d479\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\25205d7d89004b98e04a96b33f68849b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\25205d7d89004b98e04a96b33f68849b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.uphyca:stetho_realm:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\stetho_realm-2.1.0.aar\5695457790e6ce05ff3c843862d1979b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.uphyca:stetho_realm:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\stetho_realm-2.1.0.aar\5695457790e6ce05ff3c843862d1979b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:7:5-9:41
+MERGED from [io.realm:android-adapters:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\android-adapters-2.1.0.aar\670395e540bc5c3626b7d3b1db7c2dcb\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:android-adapters:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\android-adapters-2.1.0.aar\670395e540bc5c3626b7d3b1db7c2dcb\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\68df8009efcc43c2d67c071fae559bb9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\68df8009efcc43c2d67c071fae559bb9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-10.2.1.aar\85d3746ee3204f440f0382deb9ec53c6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-10.2.1.aar\85d3746ee3204f440f0382deb9ec53c6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.1.aar\04ef26934a7b0fdad2625d7f166984d1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.1.aar\04ef26934a7b0fdad2625d7f166984d1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.1.aar\aaf816be7d32a6684311714515c40671\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.1.aar\aaf816be7d32a6684311714515c40671\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.1.aar\e722461731d87148f1ab154450f82976\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.1.aar\e722461731d87148f1ab154450f82976\AndroidManifest.xml:17:5-43
+MERGED from [pub.devrel:easypermissions:0.3.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.3.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ddf5f4156de80ff257dacf64920b0368\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ddf5f4156de80ff257dacf64920b0368\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\58e8a467dc7ef630c7d4d1aa33315d35\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\58e8a467dc7ef630c7d4d1aa33315d35\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.1.aar\63b5b983138185caf4b7f85bcba38b8c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.1.aar\63b5b983138185caf4b7f85bcba38b8c\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\0583c1a266169b5f7bdc7553cad0025d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\0583c1a266169b5f7bdc7553cad0025d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7d6dacf66c379b85cda5ac4776585bf6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7d6dacf66c379b85cda5ac4776585bf6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d531f8b921fced9e5e23b76be4723944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d531f8b921fced9e5e23b76be4723944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ecb462f4dbedc5f46efbc17a24c341ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ecb462f4dbedc5f46efbc17a24c341ba\AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\9b29a6b109bcfae08bc88da36f38ab19\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\9b29a6b109bcfae08bc88da36f38ab19\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.1.aar\c1c489ff3e33278193e20d130555ff98\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.1.aar\c1c489ff3e33278193e20d130555ff98\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-10.2.1.aar\b4d056da2821f04007563a350ae4b373\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-10.2.1.aar\b4d056da2821f04007563a350ae4b373\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.1.aar\5e046ae63585670d1a6eb2ef715b22bc\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.1.aar\5e046ae63585670d1a6eb2ef715b22bc\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.1.aar\9889e82f169e3ce6241034f932d74315\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.1.aar\9889e82f169e3ce6241034f932d74315\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.1.aar\ec2b8c3f186ee108e434afca90ab3925\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.1.aar\ec2b8c3f186ee108e434afca90ab3925\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.1.aar\163ca525a750b8d8843e55bd4ca6ddac\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.1.aar\163ca525a750b8d8843e55bd4ca6ddac\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.1.aar\40cb47f90bc0aba8cfdb94b08356de51\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.1.aar\40cb47f90bc0aba8cfdb94b08356de51\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.1.aar\2952c6c9c78185428e1256632b274291\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.1.aar\2952c6c9c78185428e1256632b274291\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-10.2.1.aar\67dd35ef395f5ddc8c5d2d167e749d22\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-10.2.1.aar\67dd35ef395f5ddc8c5d2d167e749d22\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.1.aar\7b0a969249815cea4e7a8849862d38db\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.1.aar\7b0a969249815cea4e7a8849862d38db\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.1.aar\e4a137e57766865be8388a9befcb1861\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.1.aar\e4a137e57766865be8388a9befcb1861\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.1.aar\e9cad1d8c85f47787b3cac514cf71f47\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.1.aar\e9cad1d8c85f47787b3cac514cf71f47\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.1.aar\0be5cabcc2868858dd4c62072ab3b0d0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.1.aar\0be5cabcc2868858dd4c62072ab3b0d0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.1.aar\300d044386f2423109a2a5b8c4eee459\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.1.aar\300d044386f2423109a2a5b8c4eee459\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.1.aar\3e0cfa464a537e4ab4ae762723ce2f50\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.1.aar\3e0cfa464a537e4ab4ae762723ce2f50\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-wallet-10.2.1.aar\a4f39c178f8c78b78685907c3afd299e\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-wallet-10.2.1.aar\a4f39c178f8c78b78685907c3afd299e\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.1.aar\e9d1c1680a37286c4e482783bbbeff56\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.1.aar\e9d1c1680a37286c4e482783bbbeff56\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.1.aar\9d713dca684b471934903abad5759c10\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.1.aar\9d713dca684b471934903abad5759c10\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-10.2.1.aar\ef85257cc1cb4278018d8a97bc8e41d1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-10.2.1.aar\ef85257cc1cb4278018d8a97bc8e41d1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.1.aar\cd9032e532340dc07bd61993838942bb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.1.aar\cd9032e532340dc07bd61993838942bb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.1.aar\2d2d53f618dc3ca605c0c885d9765e65\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.1.aar\2d2d53f618dc3ca605c0c885d9765e65\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.1.aar\72c25f9675c8681fc47feabc3b978776\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.1.aar\72c25f9675c8681fc47feabc3b978776\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.1.aar\2cd56ff2f5a486c31b56eb006a2f01f0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.1.aar\2cd56ff2f5a486c31b56eb006a2f01f0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\0723f97d62040b39963cced288bb71a1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\0723f97d62040b39963cced288bb71a1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.1.aar\76142f2dca7684ac9431247ab01674e0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.1.aar\76142f2dca7684ac9431247ab01674e0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.1.aar\6dc2bbf6c5a48ee51d4ac6adc7b0d143\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.1.aar\6dc2bbf6c5a48ee51d4ac6adc7b0d143\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.1.aar\f5e25db2c3e919e58d9a9b122503624f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.1.aar\f5e25db2c3e919e58d9a9b122503624f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\a009f45d9c54c5bd466def68d0e58a8f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\a009f45d9c54c5bd466def68d0e58a8f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\84a98da7c9ca47730384081a171e2ef9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\84a98da7c9ca47730384081a171e2ef9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:22:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.1.aar\72a7ec8a9e4c8d9ca8bcdcd03845c72c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.1.aar\72a7ec8a9e4c8d9ca8bcdcd03845c72c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.1.aar\6363122d7a443dc1568767ccf9f0e1c8\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.1.aar\6363122d7a443dc1568767ccf9f0e1c8\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\7de552fdd84254a2f1de05c2758c7eb0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\7de552fdd84254a2f1de05c2758c7eb0\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\15829086ca3fd92b452cf45e2eba58fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\15829086ca3fd92b452cf45e2eba58fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\1cca5783dcacda7961876d0cc2164159\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\1cca5783dcacda7961876d0cc2164159\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bdca58de75d8703cf934245f8282226b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bdca58de75d8703cf934245f8282226b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\aa03692c70308c0ec9e413c29a7b0f3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\aa03692c70308c0ec9e413c29a7b0f3a\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\93e9dafbd9c97636de69935e7e8e45f2\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\93e9dafbd9c97636de69935e7e8e45f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jakob-grabner:Circle-Progress-View:v1.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\Circle-Progress-View-v1.3.aar\6466e721b06e245ec9f825768a69e0f7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jakob-grabner:Circle-Progress-View:v1.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\Circle-Progress-View-v1.3.aar\6466e721b06e245ec9f825768a69e0f7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\540a0725fae8e2d4f96ff6156cca1a2c\AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\540a0725fae8e2d4f96ff6156cca1a2c\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7e0e2756ec0c95e91d097a488804c601\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7e0e2756ec0c95e91d097a488804c601\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3fedbbe4f576dcc15e99e1697793f48d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3fedbbe4f576dcc15e99e1697793f48d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\04fdb6d61296f45bd8d1bb4358c72163\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\04fdb6d61296f45bd8d1bb4358c72163\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e5f83527dd8fdb878b7e7de9b74ee98a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e5f83527dd8fdb878b7e7de9b74ee98a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\693368ae1141db7db5eab35fbda8ff2c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\693368ae1141db7db5eab35fbda8ff2c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb67f53baecec6798f83bc2c980638c2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb67f53baecec6798f83bc2c980638c2\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\546b2e862c2cab0065b3dc031feb79e6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\546b2e862c2cab0065b3dc031feb79e6\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\58e8a467dc7ef630c7d4d1aa33315d35\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:66:13-68:65
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:27:13-29:65
+MERGED from [com.github.jrvansuita:PickImage:2.2.3] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\AndroidManifest.xml:27:13-29:65
+	android:resource
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:68:17-62
+	android:name
+		ADDED from C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\src\main\AndroidManifest.xml:67:17-67
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.1.aar\aaf816be7d32a6684311714515c40671\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.1.aar\aaf816be7d32a6684311714515c40671\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.1.aar\aaf816be7d32a6684311714515c40671\AndroidManifest.xml:23:18-87
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:0.3.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:0.3.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:0.3.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:0.3.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:0.3.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\AndroidManifest.xml:13:13-86
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ddf5f4156de80ff257dacf64920b0368\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\58e8a467dc7ef630c7d4d1aa33315d35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\58e8a467dc7ef630c7d4d1aa33315d35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7d6dacf66c379b85cda5ac4776585bf6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7d6dacf66c379b85cda5ac4776585bf6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d531f8b921fced9e5e23b76be4723944\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d531f8b921fced9e5e23b76be4723944\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ecb462f4dbedc5f46efbc17a24c341ba\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ecb462f4dbedc5f46efbc17a24c341ba\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\15829086ca3fd92b452cf45e2eba58fc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\15829086ca3fd92b452cf45e2eba58fc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bdca58de75d8703cf934245f8282226b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bdca58de75d8703cf934245f8282226b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7e0e2756ec0c95e91d097a488804c601\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7e0e2756ec0c95e91d097a488804c601\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3fedbbe4f576dcc15e99e1697793f48d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3fedbbe4f576dcc15e99e1697793f48d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\04fdb6d61296f45bd8d1bb4358c72163\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\04fdb6d61296f45bd8d1bb4358c72163\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e5f83527dd8fdb878b7e7de9b74ee98a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e5f83527dd8fdb878b7e7de9b74ee98a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\693368ae1141db7db5eab35fbda8ff2c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\693368ae1141db7db5eab35fbda8ff2c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb67f53baecec6798f83bc2c980638c2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb67f53baecec6798f83bc2c980638c2\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ddf5f4156de80ff257dacf64920b0368\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ddf5f4156de80ff257dacf64920b0368\AndroidManifest.xml:24:13-51
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\AndroidManifest.xml:7:18-90
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.1.aar\72c25f9675c8681fc47feabc3b978776\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.1.aar\72c25f9675c8681fc47feabc3b978776\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:21:22-76
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:22:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.1.aar\3e0cfa464a537e4ab4ae762723ce2f50\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.1.aar\3e0cfa464a537e4ab4ae762723ce2f50\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.1.aar\9d713dca684b471934903abad5759c10\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.1.aar\9d713dca684b471934903abad5759c10\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:24:17-71
+permission#com.dupreinca.dupree.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:26:22-76
+uses-permission#com.dupreinca.dupree.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:31:13-34:29
+intent-filter#com.dupreinca.dupree+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:33:27-58
+category#com.dupreinca.dupree
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\AndroidManifest.xml:24:18-63
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\a009f45d9c54c5bd466def68d0e58a8f\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\a009f45d9c54c5bd466def68d0e58a8f\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\a009f45d9c54c5bd466def68d0e58a8f\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\a009f45d9c54c5bd466def68d0e58a8f\AndroidManifest.xml:19:19-85
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\AndroidManifest.xml:26:19-91
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\7de552fdd84254a2f1de05c2758c7eb0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\7de552fdd84254a2f1de05c2758c7eb0\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\7de552fdd84254a2f1de05c2758c7eb0\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\546b2e862c2cab0065b3dc031feb79e6\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\546b2e862c2cab0065b3dc031feb79e6\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\546b2e862c2cab0065b3dc031feb79e6\AndroidManifest.xml:26:13-58

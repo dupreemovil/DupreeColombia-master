@@ -1,0 +1,144 @@
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\realm-android-library-2.2.1.aar\6001ce9f3a40026a8431e642f6ecad93\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\2.2.1\3095c5145d7966e555c113c6a3fc33a107badc80\realm-annotations-2.2.1.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\407536b6d124f45ca30c34acf8aa686a\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\474b100be281600fa9a057e6526550db\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\floating-text-button-0.0.2.aar\bc200d50d84b6e06bd1592b57a67d479\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\25205d7d89004b98e04a96b33f68849b\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\stetho_realm-2.1.0.aar\5695457790e6ce05ff3c843862d1979b\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\PickImage-2.2.3.aar\7c7ac2293f4b4cd86678b269d2a5f331\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\android-adapters-2.1.0.aar\670395e540bc5c3626b7d3b1db7c2dcb\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\68df8009efcc43c2d67c071fae559bb9\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-10.2.1.aar\85d3746ee3204f440f0382deb9ec53c6\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.1.aar\04ef26934a7b0fdad2625d7f166984d1\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.1.aar\aaf816be7d32a6684311714515c40671\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.1.aar\e722461731d87148f1ab154450f82976\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\easypermissions-0.3.0.aar\3bba295e8f074bb346467e4956df83bd\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ddf5f4156de80ff257dacf64920b0368\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\58e8a467dc7ef630c7d4d1aa33315d35\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.1.aar\d21e160edbaabaa209bf6fd21fd038ae\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.1.aar\63b5b983138185caf4b7f85bcba38b8c\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\0583c1a266169b5f7bdc7553cad0025d\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\0583c1a266169b5f7bdc7553cad0025d\jars\libs\internal_impl-24.0.0.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7d6dacf66c379b85cda5ac4776585bf6\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d531f8b921fced9e5e23b76be4723944\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ecb462f4dbedc5f46efbc17a24c341ba\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\9b29a6b109bcfae08bc88da36f38ab19\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.1.aar\c1c489ff3e33278193e20d130555ff98\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-10.2.1.aar\b4d056da2821f04007563a350ae4b373\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.1.aar\025d6b58fd4d7a46e33d242113aaa22e\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\62ae989f552077d948fcbaba1cf3d7d7\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.1.aar\5e046ae63585670d1a6eb2ef715b22bc\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.1.aar\9889e82f169e3ce6241034f932d74315\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.1.aar\1019f3ce8b1f314a4b871cedc64ea65c\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\6d064cea8ef06bfebb9e7b0746173926\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.1.aar\ec2b8c3f186ee108e434afca90ab3925\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.1.aar\163ca525a750b8d8843e55bd4ca6ddac\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.1.aar\7610f582dd72df79e6a4528480ffa834\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.1.aar\40cb47f90bc0aba8cfdb94b08356de51\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.1.aar\da32c17a0817fe76cf0490feb2804be6\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.1.aar\2952c6c9c78185428e1256632b274291\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.1.aar\5a4b749b2c8ac97485211820b62dffde\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.1.aar\1207a4bf8f0e3becba8a6416c777ae8f\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.1.aar\ea5e132abafc8f03b85adb487386c5b7\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-10.2.1.aar\67dd35ef395f5ddc8c5d2d167e749d22\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.1.aar\7b0a969249815cea4e7a8849862d38db\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.1.aar\e4a137e57766865be8388a9befcb1861\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.1.aar\e9cad1d8c85f47787b3cac514cf71f47\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.1.aar\0be5cabcc2868858dd4c62072ab3b0d0\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.1.aar\300d044386f2423109a2a5b8c4eee459\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.1.aar\3e0cfa464a537e4ab4ae762723ce2f50\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-wallet-10.2.1.aar\a4f39c178f8c78b78685907c3afd299e\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.1.aar\e9d1c1680a37286c4e482783bbbeff56\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.1.aar\9d713dca684b471934903abad5759c10\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-10.2.1.aar\ef85257cc1cb4278018d8a97bc8e41d1\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.1.aar\cd9032e532340dc07bd61993838942bb\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.1.aar\2d2d53f618dc3ca605c0c885d9765e65\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.1.aar\e94f8cb53b32a75eaeb9a9b4856df93b\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.1.aar\72c25f9675c8681fc47feabc3b978776\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.1.aar\2cd56ff2f5a486c31b56eb006a2f01f0\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\0723f97d62040b39963cced288bb71a1\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.1.aar\76142f2dca7684ac9431247ab01674e0\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.1.aar\6dc2bbf6c5a48ee51d4ac6adc7b0d143\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.1.aar\f5e25db2c3e919e58d9a9b122503624f\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\a009f45d9c54c5bd466def68d0e58a8f\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\84a98da7c9ca47730384081a171e2ef9\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.1.aar\bd978f820af3da14146ed4fa3d8cf9d9\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.1.aar\72a7ec8a9e4c8d9ca8bcdcd03845c72c\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.1.aar\6363122d7a443dc1568767ccf9f0e1c8\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\7de552fdd84254a2f1de05c2758c7eb0\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\15829086ca3fd92b452cf45e2eba58fc\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\1cca5783dcacda7961876d0cc2164159\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bdca58de75d8703cf934245f8282226b\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\aa03692c70308c0ec9e413c29a7b0f3a\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\93e9dafbd9c97636de69935e7e8e45f2\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\Circle-Progress-View-v1.3.aar\6466e721b06e245ec9f825768a69e0f7\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\540a0725fae8e2d4f96ff6156cca1a2c\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7e0e2756ec0c95e91d097a488804c601\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3fedbbe4f576dcc15e99e1697793f48d\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\04fdb6d61296f45bd8d1bb4358c72163\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e5f83527dd8fdb878b7e7de9b74ee98a\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\693368ae1141db7db5eab35fbda8ff2c\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb67f53baecec6798f83bc2c980638c2\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar'(**.class)
+-injars 'C:\Users\sergio.caro\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\546b2e862c2cab0065b3dc031feb79e6\jars\classes.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar'(**.class)
+-injars 'C:\Users\sergio.caro\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar'(**.class)
+-injars 'C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\build\intermediates\transforms\RealmTransformer\debug\0'(**.class)
+-outjars 'C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\sergio.caro\AppData\Local\Android\Sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at C:\Users\sergio.caro\StudioProjects\DupreeColombia-master\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:44
+-keep class com.dupreinca.dupree.mh_based_realm.BaseApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}
